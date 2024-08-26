@@ -1,6 +1,6 @@
 import Image from "next/image";
-import FirstImage from "./components/FirstImage";
-import LoginForm from "./components/LoginForm";
+import FirstImage from "../components/FirstImage";
+import LoginForm from "../components/LoginForm";
 
 export default function Home() {
   return (
